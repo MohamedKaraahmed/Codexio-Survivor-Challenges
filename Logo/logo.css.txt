@@ -1,0 +1,31 @@
+span {
+    display: inline-block;
+     height:14.28vh;
+   }
+   .firstRow{
+     background-color: #ad069d;
+   }
+   .secondRow{
+   background-color: #732eaf;
+   }
+   .thirdRow{
+   background-color: #43469d;
+   }
+   .fourthRow{
+   background-color: #0d3889;
+   }
+   .big{
+   width:60%;
+   }
+   .small{
+   width:30%;
+   }
+   .firstRowWhite{
+   width:40%;
+   }
+   .smallWhite{
+   width:10%;
+   }
+   .emptyRow{
+   width:100%
+   }
